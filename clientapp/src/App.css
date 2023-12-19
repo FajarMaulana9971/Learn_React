@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+
+*{
+  color: #364F6B;
+}
+
+body{
+  background-color: #F5F5F5;
+}
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.card{
+  width: 20rem;
+  background-color: #3FC1C9;
+}
+
+.parent-selector .badan:nth-child(3){
+  background-color: black;
+}
+
+.modal-header{
+  background-color: #61dafb;
+  text-align: center;
+}
+
+.modal-body{
+  text-align: justify;
+  padding: 20px 10px 20px 10px;
+}
+
+.btn-custom{
+  background-color: #6096B4;
+}
